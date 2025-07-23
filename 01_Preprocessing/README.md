@@ -28,7 +28,7 @@ Supondo que o formato escolhido tenha sido o xlsx (ou Excel), o programa `diabet
 
 ## Descrição da base de dados
 
-Esse conjunto de dados pode ser baixado no [UCI Machine Learning Repository: Pima Indians Diabetes Data Set](https://archive.ics.uci.edu/ml/datasets/pima+indians+diabetes). Que foi originalmente do National Institute of Diabetes and Digestive and Kidney Diseases, cujo objetivo é prever se o paciente tem diabetes. Os pacientes selecionados são mulheres com pelo menos 21 de herança indiana Prima. As informações da base de dados são descritas a seguir.
+Esse conjunto de dados, intitulado Pima Indians Diabetes Data Set, foi originalmente do National Institute of Diabetes and Digestive and Kidney Diseases, cujo objetivo é prever se o paciente tem diabetes. Os pacientes selecionados são mulheres com pelo menos 21 de herança indiana Prima. As informações da base de dados são descritas a seguir.
 
 #### Atributos do dataset:
 1. **Pregnancies**: número de vezes grávida
